@@ -1,7 +1,7 @@
 # CSE 11 Fall 2022 PA6 - Simple Reddit
 **Due date: Thursday, Nov 10 @ 11:59PM PDT**
 
-There is an [FAQ post](TODO) on Piazza. Please read that post first if you have any questions.
+There is an [FAQ post](https://piazza.com/class/l871flmwsqy8i/post/766) on Piazza. Please read that post first if you have any questions.
 
 ## Provided Files
 None
