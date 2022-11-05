@@ -271,7 +271,7 @@ u/CSE11Student Karma: 0
 [1|0]   Comment
 ```
 
-To receive full credit for this section, make sure your main method tests at **least 75% of both methods and lines** of your code. You will be able to see your code coverage under "Coverage" on the Gradescope Autograder.
+To receive full credit for this section, make sure your main method tests at **least 75% of both methods and lines** of your code. You will be able to see your code coverage under "Coverage" on the Gradescope Autograder. You'll get partial credits if your coverage is between 55% and 75%. No points will be awarded if your coverage is below 55%.
 
 Note: Only the file header will be graded for style. You can use magic numbers and non-descriptive variable names as the main goal of this file is for testing.
 
